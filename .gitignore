@@ -3,3 +3,13 @@
 ################################################################################
 
 /.vs
+/Business/obj
+/Data/obj
+/WebAPI/obj/project.assets.json
+/WebAPI/obj/WebAPI.csproj.nuget.cache
+/WebAPI/obj/WebAPI.csproj.nuget.g.props
+/WebAPI/obj/WebAPI.csproj.nuget.g.targets
+/WebAPI/obj/Debug/netcoreapp2.1/WebAPI.assets.cache
+/WebAPI/obj/Debug/netcoreapp2.1/WebAPI.csprojAssemblyReference.cache
+/WebAPI/obj/Debug/netcoreapp2.1/WebAPI.RazorAssemblyInfo.cs
+/WebAPI/obj/Debug/netcoreapp2.1/WebAPI.RazorAssemblyInfo.cache
