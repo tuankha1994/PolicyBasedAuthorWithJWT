@@ -1,8 +1,0 @@
-E:\Demo\PolicyBasedAuthorWithJWT\Data\bin\Debug\netcoreapp2.1\Data.deps.json
-E:\Demo\PolicyBasedAuthorWithJWT\Data\bin\Debug\netcoreapp2.1\Data.dll
-E:\Demo\PolicyBasedAuthorWithJWT\Data\bin\Debug\netcoreapp2.1\Data.pdb
-E:\Demo\PolicyBasedAuthorWithJWT\Data\obj\Debug\netcoreapp2.1\Data.csproj.CoreCompileInputs.cache
-E:\Demo\PolicyBasedAuthorWithJWT\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfoInputs.cache
-E:\Demo\PolicyBasedAuthorWithJWT\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfo.cs
-E:\Demo\PolicyBasedAuthorWithJWT\Data\obj\Debug\netcoreapp2.1\Data.dll
-E:\Demo\PolicyBasedAuthorWithJWT\Data\obj\Debug\netcoreapp2.1\Data.pdb
